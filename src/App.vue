@@ -1,13 +1,11 @@
 <template>
-    <div>
-      <Header />
+     <Header />
       <div class="container">
         <Balance />
         <IncomeExpenses />
         <TransactionList />
         <AddTransaction />
       </div>
-    </div>
   </template>
   
   <script>
